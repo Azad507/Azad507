@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Md Azad Hossain Razu
 - 👀 I’m interested in ...SOFTWARE DEVELOPER
-- 🌱 I’m currently learning ...Bangladesh University of Bussiness & Technology(BUBT)
+- 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ... Problem Suluation
-- .
 - 📫 How to reach me ...
 
 <!---
